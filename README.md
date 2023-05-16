@@ -23,6 +23,6 @@ Within each subset folder:
 
 - MAIN: the merged database of molecules with TDDFT $\Delta E_{ST} < 0.5$ eV, and their $n_{rots}$ and $K_{HL}$ values.
 
-- dr: $\Delta r$ metric by Guido for the molecules checked.
+- dr: [$\Delta r$ metric by Guido](https://pubs.acs.org/doi/abs/10.1021/ct400337e) for the molecules checked.
 
 - CAS_a_b - computed vertical $S_1$ and $T_1$ energies (and $\Delta E_{ST}$) at the CASSCF/6-31G* level with Gaussian. 
