@@ -17,7 +17,7 @@ provided for the paper.
 
 - ZINC subset: data regarding the molecules derived from ZINC
 
-- TD_opt_candidates: $S_1$ and $T_1$ geometry optimisation log files at the TDDFT/M06-2X/def2-TZVP level. 
+- TD_opt_candidates: $S_1$ and $T_1$ TDDFT/M06-2X/def2-TZVP optimised geometries. 
 
 Within each subset folder: 
 
