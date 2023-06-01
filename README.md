@@ -21,6 +21,6 @@ provided for the paper.
 
 Within each subset folder: 
 
-- MAIN: the merged database of molecules with TDDFT $\Delta E_{ST} < 0.5$ eV.
+- MAIN: the database of molecules with TDDFT $\Delta E_{ST} < 0.5$ eV.
 
 - CAS_a_b - computed vertical $S_1$ and $T_1$ energies (and $\Delta E_{ST}$) at the CASSCF/6-31G* level with Gaussian. 
