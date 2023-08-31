@@ -1,9 +1,9 @@
 Description
 ===========
 This repository contains electronic supporting information for the paper
-**Identification of New Inverted Singlet-Triplet Cores by High-Throughput
-Virtual Screening**, submitted to _ChemRxiv_ by O. H. Omar, X. Xie, A. Troisi,
-and D. Padula.
+[**Identification of Unknown Inverted Singlet-Triplet Cores by High-Throughput
+Virtual Screening**, published in _J. Am. Chem. Soc._ by Ö. H. Omar, X. Xie, A. Troisi,
+and D. Padula.](https://doi.org/10.1021/jacs.3c05452)
 
 Each subfolder contains files for the various simulations reported
 in the paper.
